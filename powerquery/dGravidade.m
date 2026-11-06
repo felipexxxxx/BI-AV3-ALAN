@@ -1,0 +1,1 @@
+let Fonte = prfRecorte_Tratado, Selecionada = Table.SelectColumns(Fonte, {"GravidadeKey"}), Unica = Table.Distinct(Selecionada), Renomeada = Table.RenameColumns(Unica, {{"GravidadeKey", "ClassificacaoPRF"}}) in Renomeada

@@ -1,0 +1,1 @@
+let Fonte = prfRecorte_Tratado, Selecionada = Table.SelectColumns(Fonte, {"CausaKey"}), Unica = Table.Group(Selecionada, {"CausaKey"}, {}, GroupKind.Global, Comparer.OrdinalIgnoreCase), Renomeada = Table.RenameColumns(Unica, {{"CausaKey", "CausaRegistrada"}}) in Renomeada

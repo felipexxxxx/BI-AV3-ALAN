@@ -1,0 +1,32 @@
+<header class="ld-head">
+  <div><div class="ld-eyebrow"><span class="ld-mark" aria-hidden="true"><i></i><i></i></span>Observatório viário · Ceará</div><h1 class="ld-title">Onde concentrar a prevenção?</h1><p class="ld-subtitle">PRF · BR-116 e BR-222 · <span data-period></span></p></div>
+  <div class="ld-tools"><button type="button" class="ld-theme" data-theme-toggle data-hc-suppress="filter" aria-label="Alternar modo claro e escuro">Modo claro ↗</button><p class="ld-updated" data-updated></p></div>
+</header>
+<div class="ld-rule"></div>
+<section class="ld-filters" aria-label="Filtros internos do painel" data-hc-suppress="filter">
+  <label class="ld-field">MÊS<select class="ld-select" data-filter="mes" aria-label="Mês"></select></label>
+  <label class="ld-field">MUNICÍPIO<select class="ld-select" data-filter="municipio" aria-label="Município"></select></label>
+  <label class="ld-field">TIPO DE ACIDENTE<select class="ld-select" data-filter="tipo" aria-label="Tipo de acidente"></select></label>
+  <label class="ld-field">RODOVIA<select class="ld-select" data-filter="rodovia" aria-label="Rodovia"></select></label>
+  <label class="ld-field">FASE DO DIA<select class="ld-select" data-filter="fase" aria-label="Fase do dia"></select></label>
+  <button type="button" class="ld-clear" data-clear>Limpar filtros</button>
+</section>
+<div class="ld-ticker" aria-label="Destaques do recorte"><span class="ld-ticker-label">EM FOCO</span><div class="ld-ticker-values" data-ticker></div></div>
+<p class="ld-selection" data-selection aria-live="polite"></p>
+<section class="ld-kpis" aria-label="Indicadores do recorte" data-kpis></section>
+<section class="ld-empty" data-empty hidden><h2>Nenhuma ocorrência neste recorte</h2><p>Combine outros filtros ou use “Limpar filtros”. Os filtros do relatório permanecem aplicados.</p></section>
+<div data-analysis>
+  <div class="ld-main-grid">
+    <section class="ld-panel"><div class="ld-panel-header"><div><h2>Volume e gravidade ao longo do tempo</h2><p class="ld-panel-desc">Selecione um mês nas barras · linha: proporção com feridos graves ou mortos</p></div><div class="ld-legend"><span><i class="ld-dot"></i>Acidentes</span><span><i class="ld-dot ld-line-dot"></i>Graves ou fatais</span></div></div><div data-monthly></div></section>
+    <section class="ld-panel ld-readout" aria-label="Leitura executiva"><h2>Prioridade de investigação</h2><div data-readout></div></section>
+  </div>
+  <div class="ld-bottom-grid">
+    <section class="ld-panel"><div class="ld-panel-header"><div><h2>Municípios com mais registros</h2><p class="ld-panel-desc">Selecione uma barra para explorar o município</p></div></div><div class="ld-rank-list" data-municipios></div></section>
+    <section class="ld-panel"><div class="ld-panel-header"><div><h2>Tipos de acidente em destaque</h2><p class="ld-panel-desc">Volume no recorte atual</p></div></div><div class="ld-rank-list" data-tipos></div></section>
+    <section class="ld-panel"><div class="ld-panel-header"><div><h2>Gravidade por tipo de pista</h2><p class="ld-panel-desc">Proporção e volume devem ser lidos juntos</p></div></div><div class="ld-type-list" data-pistas></div><p class="ld-small-note">Frequência registrada não equivale a risco por veículo.</p></section>
+  </div>
+  <section class="ld-panel ld-table-panel"><div class="ld-panel-header"><div><h2>Trechos para acompanhar</h2><p class="ld-panel-desc">Dez trechos com mais ocorrências no recorte · faixas analíticas de 10 km</p></div><span class="ld-panel-desc" data-table-total></span></div>
+  <table class="ld-table"><thead><tr><th>Trecho</th><th class="ld-num">Acidentes</th><th class="ld-num">Graves/fatais</th><th class="ld-num">% graves/fatais</th><th class="ld-num">Feridos</th><th class="ld-num">Mortes</th></tr></thead><tbody data-trechos></tbody></table><div class="ld-table-meta"><span>Limite inferior inclusivo; superior exclusivo.</span><span data-quality></span></div></section>
+</div>
+<footer class="ld-footer"><p>Fonte: PRF · registros por ocorrência · 2021–2025. Vítimas são pessoas. O painel apoia a priorização de vistorias; intervenções exigem avaliação técnica.</p><span class="ld-status" data-status>Dados carregados</span></footer>
+<div class="ld-tooltip" role="tooltip" hidden></div>

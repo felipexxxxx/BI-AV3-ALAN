@@ -1,0 +1,1 @@
+let Fonte = prfRecorte_Tratado, Selecionada = Table.SelectColumns(Fonte, {"TipoKey"}), Unica = Table.Distinct(Selecionada), Renomeada = Table.RenameColumns(Unica, {{"TipoKey", "TipoAcidente"}}) in Renomeada

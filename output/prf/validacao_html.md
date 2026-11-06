@@ -1,0 +1,143 @@
+# Validacao do HTML Normal PRF
+
+117 verificacoes aprovadas.
+
+- OK: Geral · Acidentes: 5513 / 5513
+- OK: Geral · Feridos: 6164 / 6164
+- OK: Geral · Mortes: 574 / 574
+- OK: Geral · Graves: 1931 / 1931
+- OK: Geral · PercentualGrave: 0.3502630146925449 / 0.3502630146925449
+- OK: Geral · PercentualNoite: 0.3424632686377653 / 0.3424632686377653
+- OK: Geral · ConcentracaoTop5: 0.5142390712860512 / 0.5142390712860512
+- OK: Geral · PessoasDivergentes: 212 / 212
+- OK: Geral · estado vazio
+- OK: Geral · serie soma o recorte
+- OK: Geral · leitura executiva presente
+- OK: Geral · tabela atualizada
+- OK: Janeiro 2025 · Acidentes: 92 / 92
+- OK: Janeiro 2025 · Feridos: 108 / 108
+- OK: Janeiro 2025 · Mortes: 7 / 7
+- OK: Janeiro 2025 · Graves: 30 / 30
+- OK: Janeiro 2025 · PercentualGrave: 0.32608695652173914 / 0.32608695652173914
+- OK: Janeiro 2025 · PercentualNoite: 0.2826086956521739 / 0.2826086956521739
+- OK: Janeiro 2025 · ConcentracaoTop5: 0.5217391304347826 / 0.5217391304347826
+- OK: Janeiro 2025 · PessoasDivergentes: 8 / 8
+- OK: Janeiro 2025 · estado vazio
+- OK: Janeiro 2025 · serie soma o recorte
+- OK: Janeiro 2025 · leitura executiva presente
+- OK: Janeiro 2025 · tabela atualizada
+- OK: Fortaleza · Acidentes: 1720 / 1720
+- OK: Fortaleza · Feridos: 1945 / 1945
+- OK: Fortaleza · Mortes: 84 / 84
+- OK: Fortaleza · Graves: 482 / 482
+- OK: Fortaleza · PercentualGrave: 0.2802325581395349 / 0.2802325581395349
+- OK: Fortaleza · PercentualNoite: 0.32848837209302323 / 0.32848837209302323
+- OK: Fortaleza · ConcentracaoTop5: 1 / 1
+- OK: Fortaleza · PessoasDivergentes: 5 / 5
+- OK: Fortaleza · estado vazio
+- OK: Fortaleza · serie soma o recorte
+- OK: Fortaleza · leitura executiva presente
+- OK: Fortaleza · tabela atualizada
+- OK: Tipo animal · Acidentes: 116 / 116
+- OK: Tipo animal · Feridos: 131 / 131
+- OK: Tipo animal · Mortes: 4 / 4
+- OK: Tipo animal · Graves: 37 / 37
+- OK: Tipo animal · PercentualGrave: 0.31896551724137934 / 0.31896551724137934
+- OK: Tipo animal · PercentualNoite: 0.6896551724137931 / 0.6896551724137931
+- OK: Tipo animal · ConcentracaoTop5: 0.3620689655172414 / 0.3620689655172414
+- OK: Tipo animal · PessoasDivergentes: 0 / 0
+- OK: Tipo animal · estado vazio
+- OK: Tipo animal · serie soma o recorte
+- OK: Tipo animal · leitura executiva presente
+- OK: Tipo animal · tabela atualizada
+- OK: BR116 · Acidentes: 3389 / 3389
+- OK: BR116 · Feridos: 3738 / 3738
+- OK: BR116 · Mortes: 316 / 316
+- OK: BR116 · Graves: 1152 / 1152
+- OK: BR116 · PercentualGrave: 0.339923281203895 / 0.339923281203895
+- OK: BR116 · PercentualNoite: 0.3381528474476247 / 0.3381528474476247
+- OK: BR116 · ConcentracaoTop5: 0.6618471525523754 / 0.6618471525523754
+- OK: BR116 · PessoasDivergentes: 120 / 120
+- OK: BR116 · estado vazio
+- OK: BR116 · serie soma o recorte
+- OK: BR116 · leitura executiva presente
+- OK: BR116 · tabela atualizada
+- OK: Plena noite · Acidentes: 1888 / 1888
+- OK: Plena noite · Feridos: 2056 / 2056
+- OK: Plena noite · Mortes: 297 / 297
+- OK: Plena noite · Graves: 804 / 804
+- OK: Plena noite · PercentualGrave: 0.4258474576271186 / 0.4258474576271186
+- OK: Plena noite · PercentualNoite: 1 / 1
+- OK: Plena noite · ConcentracaoTop5: 0.486228813559322 / 0.486228813559322
+- OK: Plena noite · PessoasDivergentes: 44 / 44
+- OK: Plena noite · estado vazio
+- OK: Plena noite · serie soma o recorte
+- OK: Plena noite · leitura executiva presente
+- OK: Plena noite · tabela atualizada
+- OK: Filtros combinados · Acidentes: 20 / 20
+- OK: Filtros combinados · Feridos: 22 / 22
+- OK: Filtros combinados · Mortes: 1 / 1
+- OK: Filtros combinados · Graves: 6 / 6
+- OK: Filtros combinados · PercentualGrave: 0.3 / 0.3
+- OK: Filtros combinados · PercentualNoite: 0.3 / 0.3
+- OK: Filtros combinados · ConcentracaoTop5: 1 / 1
+- OK: Filtros combinados · PessoasDivergentes: 0 / 0
+- OK: Filtros combinados · estado vazio
+- OK: Filtros combinados · serie soma o recorte
+- OK: Filtros combinados · leitura executiva presente
+- OK: Filtros combinados · tabela atualizada
+- OK: Vazio combinado · Acidentes: 0 / 0
+- OK: Vazio combinado · Feridos: 0 / 0
+- OK: Vazio combinado · Mortes: 0 / 0
+- OK: Vazio combinado · Graves: 0 / 0
+- OK: Vazio combinado · PercentualGrave: null / null
+- OK: Vazio combinado · PercentualNoite: null / null
+- OK: Vazio combinado · ConcentracaoTop5: null / null
+- OK: Vazio combinado · PessoasDivergentes: 0 / 0
+- OK: Vazio combinado · estado vazio
+- OK: Vazio combinado · sem componentes obsoletos
+- OK: Limpar retorna ao contexto externo geral
+- OK: Clique na barra mensal filtra todos os componentes
+- OK: Selecao do mes acessivel pelo teclado
+- OK: Clique no ranking aplica filtro e recalcula
+- OK: Alternancia para Light
+- OK: Contraste Light minimo 4,5:1
+- OK: Alternancia para Dark
+- OK: Contraste Dark minimo 4,5:1
+- OK: Tooltip responde ao ponteiro
+- OK: Sem overflow horizontal em 1440px
+- OK: Sem overflow horizontal em 1024px
+- OK: Sem overflow horizontal em 768px
+- OK: Sem overflow horizontal em 480px
+- OK: Sem overflow horizontal em 390px
+- OK: Sem overflow horizontal em 320px
+- OK: Escolhas persistem apos atualizacao externa e reindexacao dos dicionarios
+- OK: Recorte combinado apos atualizacao externa reconcilia
+- OK: Limpar preserva filtro externo 2025 + BR116
+- OK: Payload externo vazio funciona
+- OK: Estado vazio externo legivel
+- OK: JSON invalido tratado sem carregamento infinito
+- OK: Sem erros JavaScript nao tratados
+- OK: Sem requisicoes a bibliotecas, fontes, imagens ou APIs remotas
+
+## Contraste Light
+- --ld-fg: 14.26:1
+- --ld-muted: 6.06:1
+- --ld-accent: 5.01:1
+- --ld-amber: 5.34:1
+
+## Contraste Dark
+- --ld-fg: 15.37:1
+- --ld-muted: 8.87:1
+- --ld-accent: 9.34:1
+- --ld-amber: 10.86:1
+
+## Responsividade
+- 1440px: largura documento 1440, conteudo da raiz 1440, largura da raiz 1440
+- 1024px: largura documento 1024, conteudo da raiz 1024, largura da raiz 1024
+- 768px: largura documento 768, conteudo da raiz 768, largura da raiz 768
+- 480px: largura documento 480, conteudo da raiz 480, largura da raiz 480
+- 390px: largura documento 390, conteudo da raiz 390, largura da raiz 390
+- 320px: largura documento 320, conteudo da raiz 320, largura da raiz 320
+
+Validacao em Chromium com dados extraidos da medida nativa. Nao equivale a validacao no custom visual real do Power BI.

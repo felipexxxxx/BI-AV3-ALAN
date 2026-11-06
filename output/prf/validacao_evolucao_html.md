@@ -1,0 +1,170 @@
+# Validacao da evolucao HTML PRF
+
+149 verificacoes aprovadas.
+
+- OK: Geral · acidentes reconciliados
+- OK: Geral · gravidade e mortes reconciliadas
+- OK: Geral · mediana igual ao DAX
+- OK: Geral · media ponderada igual ao DAX
+- OK: Geral · leitura executiva atualizada
+- OK: Geral · linha mediana presente
+- OK: Geral · rodovias ordenadas por gravidade
+- OK: Geral · estados descrevem consequencias reais
+- OK: Fortaleza · acidentes reconciliados
+- OK: Fortaleza · gravidade e mortes reconciliadas
+- OK: Fortaleza · mediana igual ao DAX
+- OK: Fortaleza · media ponderada igual ao DAX
+- OK: Fortaleza · leitura executiva atualizada
+- OK: Fortaleza · linha mediana presente
+- OK: Fortaleza · rodovias ordenadas por gravidade
+- OK: Fortaleza · estados descrevem consequencias reais
+- OK: Alto Santo · acidentes reconciliados
+- OK: Alto Santo · gravidade e mortes reconciliadas
+- OK: Alto Santo · mediana igual ao DAX
+- OK: Alto Santo · media ponderada igual ao DAX
+- OK: Alto Santo · leitura executiva atualizada
+- OK: Alto Santo · linha mediana presente
+- OK: Alto Santo · rodovias ordenadas por gravidade
+- OK: Alto Santo · estados descrevem consequencias reais
+- OK: BR116 · acidentes reconciliados
+- OK: BR116 · gravidade e mortes reconciliadas
+- OK: BR116 · mediana igual ao DAX
+- OK: BR116 · media ponderada igual ao DAX
+- OK: BR116 · leitura executiva atualizada
+- OK: BR116 · linha mediana presente
+- OK: BR116 · rodovias ordenadas por gravidade
+- OK: BR116 · estados descrevem consequencias reais
+- OK: Janeiro 2025 · acidentes reconciliados
+- OK: Janeiro 2025 · gravidade e mortes reconciliadas
+- OK: Janeiro 2025 · mediana igual ao DAX
+- OK: Janeiro 2025 · media ponderada igual ao DAX
+- OK: Janeiro 2025 · leitura executiva atualizada
+- OK: Janeiro 2025 · linha mediana presente
+- OK: Janeiro 2025 · rodovias ordenadas por gravidade
+- OK: Janeiro 2025 · estados descrevem consequencias reais
+- OK: Plena noite · acidentes reconciliados
+- OK: Plena noite · gravidade e mortes reconciliadas
+- OK: Plena noite · mediana igual ao DAX
+- OK: Plena noite · media ponderada igual ao DAX
+- OK: Plena noite · leitura executiva atualizada
+- OK: Plena noite · linha mediana presente
+- OK: Plena noite · rodovias ordenadas por gravidade
+- OK: Plena noite · estados descrevem consequencias reais
+- OK: Causa acostamento · acidentes reconciliados
+- OK: Causa acostamento · gravidade e mortes reconciliadas
+- OK: Causa acostamento · mediana igual ao DAX
+- OK: Causa acostamento · media ponderada igual ao DAX
+- OK: Causa acostamento · leitura executiva atualizada
+- OK: Causa acostamento · linha mediana presente
+- OK: Causa acostamento · rodovias ordenadas por gravidade
+- OK: Causa acostamento · estados descrevem consequencias reais
+- OK: Sem registros · acidentes reconciliados
+- OK: Sem registros · gravidade e mortes reconciliadas
+- OK: Sem registros · mediana igual ao DAX
+- OK: Sem registros · media ponderada igual ao DAX
+- OK: Sem registros · novos componentes sem valores obsoletos
+- OK: Pista simples · acidentes reconciliados
+- OK: Pista simples · gravidade e mortes reconciliadas
+- OK: Pista simples · mediana igual ao DAX
+- OK: Pista simples · media ponderada igual ao DAX
+- OK: Pista simples · leitura executiva atualizada
+- OK: Pista simples · linha mediana presente
+- OK: Pista simples · rodovias ordenadas por gravidade
+- OK: Pista simples · estados descrevem consequencias reais
+- OK: trecho · ordem asc confere com valores exibidos
+- OK: trecho · aria-sort asc
+- OK: trecho · apenas uma coluna ativa
+- OK: trecho · ordenacao preserva a selecao de dez trechos
+- OK: trecho · ordem desc confere com valores exibidos
+- OK: trecho · aria-sort desc
+- OK: trecho · apenas uma coluna ativa
+- OK: trecho · ordenacao preserva a selecao de dez trechos
+- OK: acidentes · ordem asc confere com valores exibidos
+- OK: acidentes · aria-sort asc
+- OK: acidentes · apenas uma coluna ativa
+- OK: acidentes · ordenacao preserva a selecao de dez trechos
+- OK: acidentes · ordem desc confere com valores exibidos
+- OK: acidentes · aria-sort desc
+- OK: acidentes · apenas uma coluna ativa
+- OK: acidentes · ordenacao preserva a selecao de dez trechos
+- OK: graves · ordem asc confere com valores exibidos
+- OK: graves · aria-sort asc
+- OK: graves · apenas uma coluna ativa
+- OK: graves · ordenacao preserva a selecao de dez trechos
+- OK: graves · ordem desc confere com valores exibidos
+- OK: graves · aria-sort desc
+- OK: graves · apenas uma coluna ativa
+- OK: graves · ordenacao preserva a selecao de dez trechos
+- OK: percentualGrave · ordem asc confere com valores exibidos
+- OK: percentualGrave · aria-sort asc
+- OK: percentualGrave · apenas uma coluna ativa
+- OK: percentualGrave · ordenacao preserva a selecao de dez trechos
+- OK: percentualGrave · ordem desc confere com valores exibidos
+- OK: percentualGrave · aria-sort desc
+- OK: percentualGrave · apenas uma coluna ativa
+- OK: percentualGrave · ordenacao preserva a selecao de dez trechos
+- OK: feridos · ordem asc confere com valores exibidos
+- OK: feridos · aria-sort asc
+- OK: feridos · apenas uma coluna ativa
+- OK: feridos · ordenacao preserva a selecao de dez trechos
+- OK: feridos · ordem desc confere com valores exibidos
+- OK: feridos · aria-sort desc
+- OK: feridos · apenas uma coluna ativa
+- OK: feridos · ordenacao preserva a selecao de dez trechos
+- OK: mortes · ordem asc confere com valores exibidos
+- OK: mortes · aria-sort asc
+- OK: mortes · apenas uma coluna ativa
+- OK: mortes · ordenacao preserva a selecao de dez trechos
+- OK: mortes · ordem desc confere com valores exibidos
+- OK: mortes · aria-sort desc
+- OK: mortes · apenas uma coluna ativa
+- OK: mortes · ordenacao preserva a selecao de dez trechos
+- OK: Ordenacao funciona por Enter
+- OK: Foco preservado apos ordenar
+- OK: Ordenacao preservada apos filtrar
+- OK: Ranking de causas aplica filtro combinado
+- OK: Ranking de rodovias aplica filtro
+- OK: Tooltip visivel no mes 0
+- OK: Tooltip completo no mes 0
+- OK: Tooltip dentro da janela no mes 0
+- OK: Tooltip visivel no mes 30
+- OK: Tooltip completo no mes 30
+- OK: Tooltip dentro da janela no mes 30
+- OK: Tooltip visivel no mes 59
+- OK: Tooltip completo no mes 59
+- OK: Tooltip dentro da janela no mes 59
+- OK: Cenario de um unico mes comunicado
+- OK: Um mes preserva ponto e mediana
+- OK: Contraste dos estados dark >= 4,5:1
+- OK: Contraste dos estados light >= 4,5:1
+- OK: Sem overflow apos evolucao em 1440px
+- OK: Ordenacao disponivel em 1440px
+- OK: Sem overflow apos evolucao em 1024px
+- OK: Ordenacao disponivel em 1024px
+- OK: Sem overflow apos evolucao em 768px
+- OK: Ordenacao disponivel em 768px
+- OK: Sem overflow apos evolucao em 480px
+- OK: Ordenacao disponivel em 480px
+- OK: Sem overflow apos evolucao em 390px
+- OK: Ordenacao disponivel em 390px
+- OK: Sem overflow apos evolucao em 320px
+- OK: Ordenacao disponivel em 320px
+- OK: Sem erros JavaScript
+- OK: Sem requisicoes remotas
+
+## Medianas reconciliadas com DAX
+- Geral: 5513 ocorrencias; mediana 0.34377967711301044; media ponderada 0.3502630146925449
+- Fortaleza: 1720 ocorrencias; mediana 0.2788888888888889; media ponderada 0.2802325581395349
+- Alto Santo: 33 ocorrencias; mediana 0; media ponderada 0.3939393939393939
+- BR116: 3389 ocorrencias; mediana 0.3333333333333333; media ponderada 0.339923281203895
+- Janeiro 2025: 92 ocorrencias; mediana 0.32608695652173914; media ponderada 0.32608695652173914
+- Plena noite: 1888 ocorrencias; mediana 0.41145833333333337; media ponderada 0.4258474576271186
+- Causa acostamento: 40 ocorrencias; mediana 0; media ponderada 0.3
+- Sem registros: 0 ocorrencias; mediana null; media ponderada null
+- Pista simples: 2398 ocorrencias; mediana 0.4166666666666667; media ponderada 0.41743119266055045
+
+## Contraste dos estados descritivos
+- dark: 6.90:1, 6.90:1, 6.90:1
+- light: 5.57:1, 5.57:1, 5.57:1
+
+Somente a camada HTML foi alterada. Validacao em Edge/Chromium; verificacao no custom visual real do Power BI continua pendente.

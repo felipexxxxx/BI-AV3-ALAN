@@ -1,0 +1,25 @@
+{
+  "changedExpressions": [
+    "HTML Dashboard PRF"
+  ],
+  "ready": "Ready",
+  "expressionEquals": true,
+  "backupHidden": true,
+  "backupExact": true,
+  "relationshipsSame": true,
+  "counts": {
+    "Acidentes": 5513,
+    "Graves": 1931,
+    "Mediana": 0.34377967711301044
+  },
+  "htmlLength": 1304429,
+  "nativeHTMLMatchesSource": true,
+  "previewPayloadMatchesGold": true,
+  "goldExpressionUnchanged": true,
+  "browserChecks": {
+    "regression": 117,
+    "evolution": 149,
+    "javascriptErrors": 0,
+    "remoteRequests": 0
+  }
+}

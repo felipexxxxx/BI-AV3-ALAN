@@ -1,0 +1,18 @@
+# Dados públicos grandes: reconstruir com scripts/preparar_prf.py
+data/raw/prf/*.csv
+!data/raw/prf/manifesto_fontes.csv
+data/raw/prf/*.zip
+
+# Dependências e arquivos temporários locais
+tmp/
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.log
+desktop.ini
+.DS_Store
+
+# Temporários/lock do Desktop
+~$*
+*.lock

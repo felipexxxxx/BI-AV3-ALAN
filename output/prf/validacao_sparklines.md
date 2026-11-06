@@ -1,0 +1,61 @@
+# Validação dos sparklines
+
+57 verificações aprovadas.
+
+- OK: Textos, valores e badges preservados {}
+- OK: Largura dos cards preservada {}
+- OK: Posicoes de titulo, valor e auxiliar preservadas {}
+- OK: Altura aumenta no maximo 24 px {}
+- OK: Seis sparklines {}
+- OK: Ate 12 periodos comuns {}
+- OK: Textos, valores e badges preservados {"municipio":"FORTALEZA"}
+- OK: Largura dos cards preservada {"municipio":"FORTALEZA"}
+- OK: Posicoes de titulo, valor e auxiliar preservadas {"municipio":"FORTALEZA"}
+- OK: Altura aumenta no maximo 24 px {"municipio":"FORTALEZA"}
+- OK: Seis sparklines {"municipio":"FORTALEZA"}
+- OK: Ate 12 periodos comuns {"municipio":"FORTALEZA"}
+- OK: Textos, valores e badges preservados {"mes":"2025-01"}
+- OK: Largura dos cards preservada {"mes":"2025-01"}
+- OK: Posicoes de titulo, valor e auxiliar preservadas {"mes":"2025-01"}
+- OK: Altura aumenta no maximo 24 px {"mes":"2025-01"}
+- OK: Seis sparklines {"mes":"2025-01"}
+- OK: Ate 12 periodos comuns {"mes":"2025-01"}
+- OK: Selecao mensal respeitada
+- OK: Textos, valores e badges preservados {"tipo":"Colisão traseira","rodovia":"BR-116"}
+- OK: Largura dos cards preservada {"tipo":"Colisão traseira","rodovia":"BR-116"}
+- OK: Posicoes de titulo, valor e auxiliar preservadas {"tipo":"Colisão traseira","rodovia":"BR-116"}
+- OK: Altura aumenta no maximo 24 px {"tipo":"Colisão traseira","rodovia":"BR-116"}
+- OK: Seis sparklines {"tipo":"Colisão traseira","rodovia":"BR-116"}
+- OK: Ate 12 periodos comuns {"tipo":"Colisão traseira","rodovia":"BR-116"}
+- OK: Textos, valores e badges preservados {"mes":"2021-02","municipio":"ALTO SANTO"}
+- OK: Largura dos cards preservada {"mes":"2021-02","municipio":"ALTO SANTO"}
+- OK: Posicoes de titulo, valor e auxiliar preservadas {"mes":"2021-02","municipio":"ALTO SANTO"}
+- OK: Altura aumenta no maximo 24 px {"mes":"2021-02","municipio":"ALTO SANTO"}
+- OK: Seis sparklines {"mes":"2021-02","municipio":"ALTO SANTO"}
+- OK: Ate 12 periodos comuns {"mes":"2021-02","municipio":"ALTO SANTO"}
+- OK: Selecao mensal respeitada
+- OK: Vazio: so contagens zero recebem ponto, proporcoes continuam ausentes
+- OK: Periodo comum janeiro a dezembro de 2025
+- OK: Series individuais reconciliadas 2025-01
+- OK: Series individuais reconciliadas 2025-02
+- OK: Series individuais reconciliadas 2025-03
+- OK: Series individuais reconciliadas 2025-04
+- OK: Series individuais reconciliadas 2025-05
+- OK: Series individuais reconciliadas 2025-06
+- OK: Series individuais reconciliadas 2025-07
+- OK: Series individuais reconciliadas 2025-08
+- OK: Series individuais reconciliadas 2025-09
+- OK: Series individuais reconciliadas 2025-10
+- OK: Series individuais reconciliadas 2025-11
+- OK: Series individuais reconciliadas 2025-12
+- OK: Sparklines 26px e largura 75-85%
+- OK: Sem sobreposicao com textos ou badges
+- OK: Linha fina de 1,7px
+- OK: Sem eixos, rotulos ou tooltip redundante
+- OK: Somente ultimo ponto por serie
+- OK: Sem overflow 1440
+- OK: Sem overflow 1024
+- OK: Sem overflow 768
+- OK: Sem overflow 390
+- OK: Sem overflow 320
+- OK: Sem erros JavaScript

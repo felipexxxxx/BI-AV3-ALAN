@@ -1,0 +1,20 @@
+let
+    Datas = List.RemoveNulls(prfRecorte_Tratado[DataAcidente]),
+    Inicio = Date.StartOfYear(List.Min(Datas)),
+    Fim = Date.EndOfYear(List.Max(Datas)),
+    Lista = List.Dates(Inicio, Duration.Days(Fim-Inicio)+1, #duration(1,0,0,0)),
+    T = Table.FromList(Lista, Splitter.SplitByNothing(), {"Data"}),
+    Tipada = Table.TransformColumnTypes(T, {{"Data", type date}}),
+    Ano = Table.AddColumn(Tipada, "Ano", each Date.Year([Data]), Int64.Type),
+    MesNumero = Table.AddColumn(Ano, "MesNumero", each Date.Month([Data]), Int64.Type),
+    MesNome = Table.AddColumn(MesNumero, "Mes", each Date.MonthName([Data], "pt-BR"), type text),
+    AnoMes = Table.AddColumn(MesNome, "AnoMes", each Date.ToText([Data], "yyyy-MM", "pt-BR"), type text),
+    AnoMesOrdem = Table.AddColumn(AnoMes, "AnoMesOrdem", each [Ano]*100+[MesNumero], Int64.Type),
+    MesInicio = Table.AddColumn(AnoMesOrdem, "MesInicio", each Date.StartOfMonth([Data]), type date),
+    TrimestreNumero = Table.AddColumn(MesInicio, "TrimestreNumero", each Date.QuarterOfYear([Data]), Int64.Type),
+    Trimestre = Table.AddColumn(TrimestreNumero, "Trimestre", each "T" & Text.From([TrimestreNumero]), type text),
+    Dia = Table.AddColumn(Trimestre, "Dia", each Date.Day([Data]), Int64.Type),
+    DiaSemanaNumero = Table.AddColumn(Dia, "DiaSemanaNumero", each Date.DayOfWeek([Data], Day.Monday)+1, Int64.Type),
+    DiaSemana = Table.AddColumn(DiaSemanaNumero, "DiaSemana", each Date.DayOfWeekName([Data], "pt-BR"), type text),
+    FimSemana = Table.AddColumn(DiaSemana, "FimDeSemana", each [DiaSemanaNumero]>=6, type logical)
+in FimSemana

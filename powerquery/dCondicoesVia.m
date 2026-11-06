@@ -1,0 +1,1 @@
+let Fonte = prfRecorte_Tratado, Selecionada = Table.SelectColumns(Fonte, {"CondicoesViaKey", "FaseDia", "SentidoVia", "CondicaoMeteorologica", "TipoPista", "TracadoVia", "UsoSoloFonte", "UsoSolo"}), Unica = Table.Distinct(Selecionada) in Unica
