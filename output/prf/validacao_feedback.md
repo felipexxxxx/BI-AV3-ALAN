@@ -1,0 +1,95 @@
+# Feedback do professor — validação
+
+91 verificações aprovadas.
+
+- OK: Geral contagem
+- OK: Geral mortes
+- OK: Geral graves
+- OK: Geral feridos
+- OK: Geral percentual
+- OK: Total original
+- OK: Selecao de dois anos por hierarquia
+- OK: Dois anos contagem
+- OK: Dois anos mortes
+- OK: Dois anos graves
+- OK: Dois anos feridos
+- OK: Dois anos percentual
+- OK: Busca mes e ano
+- OK: Escape fecha popup
+- OK: Ctrl adiciona mes no grafico
+- OK: Ctrl soma ocorrencias sem duplicacao
+- OK: Multiplos meses contagem
+- OK: Multiplos meses mortes
+- OK: Multiplos meses graves
+- OK: Multiplos meses feridos
+- OK: Multiplos meses percentual
+- OK: Meses de referencia continuam clicaveis
+- OK: Ctrl remove mes
+- OK: Ctrl Enter adiciona via teclado
+- OK: Municipios combinados por OU
+- OK: Municipios contagem
+- OK: Municipios mortes
+- OK: Municipios graves
+- OK: Municipios feridos
+- OK: Municipios percentual
+- OK: Pesquisa abre hierarquia BR trecho
+- OK: Trecho pode ser combinado com municipios
+- OK: Trecho contagem
+- OK: Trecho mortes
+- OK: Trecho graves
+- OK: Trecho feridos
+- OK: Trecho percentual
+- OK: Pesquisa sem acento tipo
+- OK: tipo contagem
+- OK: tipo mortes
+- OK: tipo graves
+- OK: tipo feridos
+- OK: tipo percentual
+- OK: Pesquisa sem acento fase
+- OK: fase contagem
+- OK: fase mortes
+- OK: fase graves
+- OK: fase feridos
+- OK: fase percentual
+- OK: Pesquisa sem acento causa
+- OK: causa contagem
+- OK: causa mortes
+- OK: causa graves
+- OK: causa feridos
+- OK: causa percentual
+- OK: Pesquisa sem acento pista
+- OK: pista contagem
+- OK: pista mortes
+- OK: pista graves
+- OK: pista feridos
+- OK: pista percentual
+- OK: Tabela afunila para BR116 km0 a10
+- OK: Tabela contagem
+- OK: Tabela mortes
+- OK: Tabela graves
+- OK: Tabela feridos
+- OK: Tabela percentual
+- OK: Decisao mostra comparacao com denominadores
+- OK: Acao concreta preservada
+- OK: Comparacao reconciliada plena noite
+- OK: Comparacao reconciliada pleno dia
+- OK: Ordenacao preservada trecho
+- OK: Ordenacao preservada acidentes
+- OK: Ordenacao preservada graves
+- OK: Ordenacao preservada percentualGrave
+- OK: Ordenacao preservada feridos
+- OK: Ordenacao preservada mortes
+- OK: Estado vazio
+- OK: Limpar restaura contexto
+- OK: Sem overflow 1280
+- OK: Popup dentro da tela 1280
+- OK: Sem overflow 1024
+- OK: Popup dentro da tela 1024
+- OK: Sem overflow 768
+- OK: Popup dentro da tela 768
+- OK: Sem overflow 390
+- OK: Popup dentro da tela 390
+- OK: Sem overflow 320
+- OK: Popup dentro da tela 320
+- OK: Sem erros JavaScript
+- OK: Sem requisicoes remotas

@@ -191,3 +191,11 @@ Os scripts `acabamento_prf.py` e `adicionar_sparklines_prf.py` registram migraç
 - O Gold completo transmite cerca de 1,3 milhão de caracteres por visual no contexto geral; o desempenho depende do host e do hardware. A renderização local não substitui todos os testes no serviço publicado.
 
 O objetivo é tornar a análise explicável e auditável: do arquivo público ao indicador e do indicador à decisão, com regras, limitações e evidências registradas.
+
+## Feedback do professor — filtros múltiplos e decisão
+
+A análise agora oferece ano → mês e BR → trecho com seleção múltipla, pesquisa nos sete filtros, Ctrl+clique nos gráficos e investigação por clique na tabela. O painel Onde agir e por quê mostra evidência, comparação noite/dia no mesmo trecho, ação de vistoria a avaliar e limites da interpretação. Veja [regras e validações desta evolução](output/prf/feedback_professor.md). Os testes e seletores da interface anterior não representam o contrato da nova versão. Esta atualização foi aplicada na sessão aberta, sem salvar o PBIX.
+
+
+Os tipos de acidente também foram agrupados em quatro famílias, preservando os tipos originais. Há três focos para comparar trechos: mais ocorrências, maior proporção grave/fatal e menor proporção grave/fatal. O destaque executivo mostra a proporção dentro do trecho (ex.: 8 de 10 = 80%), e o texto foi simplificado para apresentar números, comparação, achados e ação de vistoria. A capa impede rolagem interna para manter o alinhamento com o botão nativo. Veja [categorias e focos](output/prf/categorias_foco_capa.md) e [limpeza da leitura executiva](output/prf/limpeza_texto_executivo.md).
+
