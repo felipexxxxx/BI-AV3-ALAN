@@ -1,4 +1,4 @@
-# Observatório Viário do Ceará — BI AV3
+# Road Safety Analytics Ceará
 
 Painel interativo em Power BI para investigar **onde e quando se concentram os acidentes e suas consequências nas BR-116 e BR-222, no Ceará, entre 2021 e 2025**.
 
